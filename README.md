@@ -1,9 +1,9 @@
-# Programming VTuber Elixir
+# Programming VTuber BEAM
 
 Everything here shares the same principle as the main repo by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
 > [!IMPORTANT]
-> IT IS NOT THE OFFICIAL LOGO OF ELIXIR
+> IT IS NOT THE OFFICIAL LOGOS
 
 ### 📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
 
